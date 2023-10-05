@@ -1,0 +1,71 @@
+body {
+	background-image:url("black.png");
+	font-family:Arial Verdana sans-serif;
+	
+}
+
+#tarolo {
+	width: 90%;
+	max-width:900px;
+	margin:auto;
+
+	
+
+}
+.fejlec {
+	background-color:gray;
+	border:1px solid black;
+	padding:2px;
+	
+}
+
+.nav {
+	padding:5px;
+	background-color:gray;
+	margin: auto;
+	max-width:80%;
+}
+
+.tores {
+	clear:both;
+}
+.witcher {
+	max-width:200px;
+	float:right;
+	padding:10px;
+	
+	
+}
+li {
+	
+	
+}
+br {
+	clear:both;
+}
+
+
+p {
+	font-size:20px;
+	margin:20px;
+}
+
+.fejlec {
+	text-align:center;
+	background-color:gray;
+	
+	
+}
+h1 {
+	text-align:left;
+	margin:20px;
+}
+div {
+	background-color:gray;
+	max-width:900px;
+	margin:auto;
+	padding:0px;
+}
+a:hover {
+  background-color: orange;
+}
